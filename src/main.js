@@ -1,11 +1,11 @@
 import "./style.css";
 
-// Minimal demo "characters"
+// Temp chars
 const characters = [
-  { id: "amber",  name: "Amber",  school: "Fire"   },
-  { id: "blaze",  name: "Blaze",  school: "Storm"  },
-  { id: "cedric", name: "Cedric", school: "Ice"    },
-  { id: "daria",  name: "Daria",  school: "Life"   },
+  { id: "falmea",  name: "Falmea",  school: "Fire"   },
+  { id: "Halston",  name: "Halston",  school: "Storm"  },
+  { id: "lydia", name: "Lydia", school: "Ice"    },
+  { id: "moolinda",  name: "Moolinda",  school: "Life"   },
 ];
 
 const board = document.getElementById("board");
